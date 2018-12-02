@@ -9,6 +9,7 @@ flask-sqlalchemy = "*"
 flask-bcrypt = "*"
 flask-jwt = "*"
 flask-migrate = "*"
+pytest = "*"
 
 [dev-packages]
 
